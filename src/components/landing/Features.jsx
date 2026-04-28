@@ -88,7 +88,7 @@ export default function Features() {
 
         <div className="relative flex items-center overflow-hidden rounded-3xl ">
 
-          <img className='w-full aspect-square object-cover' src="https://images.unsplash.com/photo-1740516367177-ae20098c8786?q=80&w=2268&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" />
+          <img className='w-full aspect-square object-contain' src="/images/p1.png" alt="image one" />
         </div>
       </div>
     </section>
